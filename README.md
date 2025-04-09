@@ -1,6 +1,8 @@
 # Dune Interactive Segmentation Model
 
-该仓库为Dune Interactive Segmentation的模型部分，详情请前往https://github.com/warmrid233/android_dune_seg了解
+该仓库为Dune Interactive Segmentation的模型部分，详情请前往
+https://github.com/warmrid233/android_dune_seg
+了解
 
 将该项目中的内容直接替换SimpleClick项目中的对应部分即可运行Dune Interactive Segmentation项目的模型端
 
