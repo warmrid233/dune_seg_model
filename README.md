@@ -1,8 +1,17 @@
 # Dune Interactive Segmentation Model
 
-这是
-https://github.com/warmrid233/android_dune_seg
-项目中所使用的后端部分，使用时请将checkpoint中的模型文件放在原项目当中的对应位置，将android_demo文件及所含文件放置于demos文件当中
-（其实放在其他地方也行，只要你能配置好运行起来）。
+This is the backend component used in the project:  
+[https://github.com/warmrid233/android_dune_seg](https://github.com/warmrid233/android_dune_seg)
 
-其他内容请详见主项目android_dune_seg，链接已在上方给出。
+## Usage Instructions:
+1. Place the model files from the `checkpoint` folder into the corresponding directory in the main project.
+2. Move the `android_demo` folder and its contents into the `demos` directory.
+   *(Note: The files can be placed elsewhere as long as you configure the paths correctly.)*
+
+For further details, please refer to the main project [android_dune_seg](https://github.com/warmrid233/android_dune_seg) (link above).
+
+---
+
+### Key Notes:
+- **Flexible Paths**: The `android_demo` files can be placed in any location if you properly configure the runtime paths.
+- **Model Setup**: Ensure the checkpoint models are correctly placed in the main project's structure.
