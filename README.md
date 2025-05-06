@@ -1,7 +1,7 @@
 # Dune Interactive Segmentation Model
 
 This is the backend component used in the project:  
-[https://github.com/warmrid233/android_dune_seg](https://github.com/warmrid233/android_dune_seg)
+[https://github.com/warmrid233/FenGePad](https://github.com/warmrid233/FenGePad)
 
 ## Usage Instructions:
 1. Place the model files from the `checkpoints` folder into the corresponding directory in the main project.
